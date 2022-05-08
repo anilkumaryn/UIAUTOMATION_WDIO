@@ -29,7 +29,7 @@ When ('I enter {int} $ as the other income', async (otherIncome) => {
     
 When ('I enter {int} $ as the living expenses', async (livingExpenses) => {
         await HomePage.enterMonthlyExpenses(livingExpenses);
-        await  browser.pause(2000);
+        await  browser.pause(1000);
 });
 
 When ('I enter {int} $ as the home loan repayment', async (homeLoanRepay) => {
@@ -72,56 +72,25 @@ Then('All the fields in the calculator are set to default values', async ()=> {
     expect("0").equals(HomePage.getTotalCreditCardsLimitValue(),"credit cards limit filed not cleared");
 });
 
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Then(/^I should navigate to the personal information page$/, async () => {
-    await expect(PersonalInfoPage.personalInfo).toBeExisting();
+Then('I should see the proper borrow error message', function() {
+    const BORROW_ERROR_MESSAGE = "Based on the details you've entered, we're unable to give you an estimate of your borrowing power with this calculator. For questions, call us on 1800 035 500."
+    expect(BORROW_ERROR_MESSAGE).equals(HomePage.getBorrowErrorMessageText(),"Borrow error message not matched")
 });
 
-Given(/^I am on the personal information page$/, async () => {
-    await expect(PersonalInfoPage.personalInfo).toBeExisting();
-});
 
-When(/^User enters the mandatory fields and click on Register button$/, async () => {
-    await PersonalInfoPage.enterPersonalInfo();
-});
 
-Then(/^The user should be registered and logged in successfully$/, async () => {
-    await expect(PersonalInfoPage.verifyloggedinUser).toBeExisting();
-});
 
-Given(/^User is logged in and on home page$/, async () => {
-    await expect(PersonalInfoPage.verifyloggedinUser).toBeExisting();
-    await MyAccountPage.clickHome();
-});
 
-When(/^User views the product and clicks on add to cart$/, async () => {
-    await AddToCartPage.checkoutproduct();
-    await expect(ShoppingCartPage.shoppingCartSummary).toBeExisting();
-});
 
-Then(/^The user should be able to complete the purchase$/, async () => {
-    await ShoppingCartPage.proceedToCheckoutButton();
-    await expect(ShoppingCartPage.orderSuccessMsg).toBeExisting();
-});
+
+
+
+
+
+
+
+
+
+
+
+

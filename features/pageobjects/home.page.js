@@ -111,7 +111,7 @@ class HomePage {
     getBorrowErrorMessageText() {
         return (this.borrowErrorText).getText();
     }
-
+   
 }
 
 export default new HomePage();

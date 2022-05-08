@@ -45,11 +45,11 @@ When  I select application type as single
 
 
 
-  # Scenario Outline: Performing an estimate borrow operation with insufficient data
-  #   When  I enter <livingExpenses> $ as the living expenses
-  #   When  I select workout how much i could borrow button
-  #   Then  I should see the proper borrow error message
+  Scenario Outline: Performing an estimate borrow operation with insufficient data
+    When  I enter <livingExpenses> $ as the living expenses
+    When  I select workout how much i could borrow button
+    Then  I should see the proper borrow error message
 
-  #   Examples:
-  #   |livingExpenses|
-  #   |1              |
+    Examples:
+    |livingExpenses|
+    |1              |
