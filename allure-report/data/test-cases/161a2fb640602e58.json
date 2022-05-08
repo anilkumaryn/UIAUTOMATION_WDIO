@@ -1,0 +1,118 @@
+{
+  "uid" : "161a2fb640602e58",
+  "name" : "When I enter income as the income before tax",
+  "fullName" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator.When I enter income as the income before tax",
+  "historyId" : "980f35b489831940d82efbb9568082e4",
+  "time" : {
+    "start" : 1652019432318,
+    "stop" : 1652019432536,
+    "duration" : 218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2aed221a36c8fb8d",
+      "name" : "Screenshot",
+      "source" : "2aed221a36c8fb8d.png",
+      "type" : "image/png",
+      "size" : 42286
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter income as the income before tax"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a11918345181c0f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017305333,
+        "stop" : 1652017305715,
+        "duration" : 382
+      }
+    }, {
+      "uid" : "2e3b1d58c2108deb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017250143,
+        "stop" : 1652017250663,
+        "duration" : 520
+      }
+    }, {
+      "uid" : "417a44a5502cd89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105881,
+        "stop" : 1652017106174,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "284ba376fd340360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016943551,
+        "stop" : 1652016944019,
+        "duration" : 468
+      }
+    }, {
+      "uid" : "f14f37b8e26432a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016776513,
+        "stop" : 1652016776846,
+        "duration" : 333
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "161a2fb640602e58.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

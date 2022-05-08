@@ -1,0 +1,61 @@
+{
+  "uid" : "a1a4ff7d4386345b",
+  "name" : "I enter homeLoanRepay as the home loan repayment",
+  "fullName" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator.I enter homeLoanRepay as the home loan repayment",
+  "historyId" : "fc7b5a2a704a9114c4183cebeb90ac10",
+  "time" : {
+    "start" : 1652017260931,
+    "stop" : 1652017260931,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "I enter homeLoanRepay as the home loan repayment"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56f1219d41617c8f",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1652017106543,
+        "stop" : 1652017106543,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1a4ff7d4386345b.json",
+  "parameterValues" : [ ]
+}

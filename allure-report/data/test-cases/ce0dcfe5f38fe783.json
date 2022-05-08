@@ -1,0 +1,76 @@
+{
+  "uid" : "ce0dcfe5f38fe783",
+  "name" : "When I enter income as the income before tax",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I enter income as the income before tax",
+  "historyId" : "3d8fcc2909df83c650ac84c3bbe5e33f",
+  "time" : {
+    "start" : 1652017309169,
+    "stop" : 1652017309428,
+    "duration" : 259
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "697d2f7f629c4a25",
+      "name" : "Screenshot",
+      "source" : "697d2f7f629c4a25.png",
+      "type" : "image/png",
+      "size" : 34505
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter income as the income before tax"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce0dcfe5f38fe783.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Expect  to have property value",
+      "children" : [ {
+        "name" : "Then All the fields in the calculator are set to default values",
+        "uid" : "59e734e5b9b59fe7",
+        "parentUid" : "12d5c57a74c4d59ddaa5a0bf279d52ae",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652020938900,
+          "stop" : 1652020949201,
+          "duration" : 10301
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-101.0.4951.54" ]
+      } ],
+      "uid" : "12d5c57a74c4d59ddaa5a0bf279d52ae"
+    }, {
+      "name" : "AssertionError: estimate not matched: expected '$479,000' to equal '$240,318'",
+      "children" : [ {
+        "name" : "Then I should see the correct estimated borrow amount",
+        "uid" : "19b42da457e97126",
+        "parentUid" : "1d5d60e705d15b4efcdd07a107085292",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652022138509,
+          "stop" : 1652022138788,
+          "duration" : 279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 11,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-101.0.4951.54" ]
+      } ],
+      "uid" : "1d5d60e705d15b4efcdd07a107085292"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

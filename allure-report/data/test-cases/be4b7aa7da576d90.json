@@ -1,0 +1,76 @@
+{
+  "uid" : "be4b7aa7da576d90",
+  "name" : "When I select number of dependents as zero",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I select number of dependents as zero",
+  "historyId" : "12a02bd9e9ced33ae8e12eff2f14d05a",
+  "time" : {
+    "start" : 1652017308672,
+    "stop" : 1652017308933,
+    "duration" : 261
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8203d4bb31c4f425",
+      "name" : "Screenshot",
+      "source" : "8203d4bb31c4f425.png",
+      "type" : "image/png",
+      "size" : 36832
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select number of dependents as zero"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be4b7aa7da576d90.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

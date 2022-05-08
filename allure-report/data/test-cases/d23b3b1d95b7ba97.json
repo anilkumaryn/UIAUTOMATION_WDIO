@@ -1,0 +1,190 @@
+{
+  "uid" : "d23b3b1d95b7ba97",
+  "name" : "When I select property type as home to live in",
+  "fullName" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator.When I select property type as home to live in",
+  "historyId" : "3ac934de5f7b3d621f50c3af8f705245",
+  "time" : {
+    "start" : 1652022125711,
+    "stop" : 1652022126008,
+    "duration" : 297
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 14,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ac9514b7e07f9cf4",
+      "name" : "Screenshot",
+      "source" : "ac9514b7e07f9cf4.png",
+      "type" : "image/png",
+      "size" : 138718
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select property type as home to live in"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ec23fb3ce98e1b89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021910973,
+        "stop" : 1652021911188,
+        "duration" : 215
+      }
+    }, {
+      "uid" : "6aa18ca08ff7af15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021789828,
+        "stop" : 1652021790057,
+        "duration" : 229
+      }
+    }, {
+      "uid" : "e38750f46cc83f8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021718945,
+        "stop" : 1652021719164,
+        "duration" : 219
+      }
+    }, {
+      "uid" : "2360135a3ed944b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021268341,
+        "stop" : 1652021268601,
+        "duration" : 260
+      }
+    }, {
+      "uid" : "39286533189e62c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021189347,
+        "stop" : 1652021189602,
+        "duration" : 255
+      }
+    }, {
+      "uid" : "96d18ac27edb04c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021118181,
+        "stop" : 1652021118391,
+        "duration" : 210
+      }
+    }, {
+      "uid" : "8209ad256065cda8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020993327,
+        "stop" : 1652020993558,
+        "duration" : 231
+      }
+    }, {
+      "uid" : "41af7e65f721e2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020935446,
+        "stop" : 1652020935727,
+        "duration" : 281
+      }
+    }, {
+      "uid" : "db7f72b40ea9a42a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019432121,
+        "stop" : 1652019432318,
+        "duration" : 197
+      }
+    }, {
+      "uid" : "764ff106e592b091",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017305089,
+        "stop" : 1652017305333,
+        "duration" : 244
+      }
+    }, {
+      "uid" : "ecff9d61c1b99088",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017249825,
+        "stop" : 1652017250142,
+        "duration" : 317
+      }
+    }, {
+      "uid" : "f4cb0a5596468d71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105640,
+        "stop" : 1652017105881,
+        "duration" : 241
+      }
+    }, {
+      "uid" : "82cf649a403a6c63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016942998,
+        "stop" : 1652016943551,
+        "duration" : 553
+      }
+    }, {
+      "uid" : "ddb37588a033e22a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016776107,
+        "stop" : 1652016776512,
+        "duration" : 405
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d23b3b1d95b7ba97.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

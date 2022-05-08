@@ -1,0 +1,61 @@
+{
+  "uid" : "131854ded0e1c6b0",
+  "name" : "I select number of dependents as zero",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.I select number of dependents as zero",
+  "historyId" : "77065c5e9deebb42b7a1358c661f266f",
+  "time" : {
+    "start" : 1652017261079,
+    "stop" : 1652017261079,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "I select number of dependents as zero"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "91c8e35d3a78d0",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1652017106659,
+        "stop" : 1652017106659,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "131854ded0e1c6b0.json",
+  "parameterValues" : [ ]
+}

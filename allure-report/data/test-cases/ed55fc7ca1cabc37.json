@@ -1,0 +1,60 @@
+{
+  "uid" : "ed55fc7ca1cabc37",
+  "name" : "",
+  "fullName" : "Verify Borrow calculator functionality: As a new user, I want to signin to the application.",
+  "historyId" : "740a3e26c87922c25667f8c1d26e7ef7",
+  "time" : {
+    "start" : 1652020934781,
+    "stop" : 1652020934782,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: As a new user, I want to signin to the application"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: As a new user, I want to signin to the application"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: As a new user, I want to signin to the application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed55fc7ca1cabc37.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

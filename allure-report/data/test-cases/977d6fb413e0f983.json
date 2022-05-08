@@ -1,0 +1,76 @@
+{
+  "uid" : "977d6fb413e0f983",
+  "name" : "When I enter total CreditCard Limits as the total credit card limits",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I enter total CreditCard Limits as the total credit card limits",
+  "historyId" : "1f992027694b5fcd02cbfb9a3d423403",
+  "time" : {
+    "start" : 1652017311067,
+    "stop" : 1652017311554,
+    "duration" : 487
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ea5e38658d4fda4",
+      "name" : "Screenshot",
+      "source" : "2ea5e38658d4fda4.png",
+      "type" : "image/png",
+      "size" : 93096
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter total CreditCard Limits as the total credit card limits"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "977d6fb413e0f983.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

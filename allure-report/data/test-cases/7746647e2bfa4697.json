@@ -1,0 +1,61 @@
+{
+  "uid" : "7746647e2bfa4697",
+  "name" : "I enter income as the income before tax",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.I enter income as the income before tax",
+  "historyId" : "6f64f7fd5c61b6b95551546697c2554d",
+  "time" : {
+    "start" : 1652017261080,
+    "stop" : 1652017261080,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "I enter income as the income before tax"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "10c626faa26c20f7",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1652017106660,
+        "stop" : 1652017106660,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7746647e2bfa4697.json",
+  "parameterValues" : [ ]
+}

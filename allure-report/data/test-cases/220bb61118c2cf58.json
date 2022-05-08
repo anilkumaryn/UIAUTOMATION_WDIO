@@ -1,0 +1,76 @@
+{
+  "uid" : "220bb61118c2cf58",
+  "name" : "When I select workout how much i could borrow button",
+  "fullName" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator.When I select workout how much i could borrow button",
+  "historyId" : "51a751309ac02bd74404cce3fd450590",
+  "time" : {
+    "start" : 1652019434547,
+    "stop" : 1652019434795,
+    "duration" : 248
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aeef3d13cd81b044",
+      "name" : "Screenshot",
+      "source" : "aeef3d13cd81b044.png",
+      "type" : "image/png",
+      "size" : 44301
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select workout how much i could borrow button"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "220bb61118c2cf58.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

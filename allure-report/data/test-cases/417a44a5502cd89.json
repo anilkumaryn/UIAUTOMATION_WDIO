@@ -1,0 +1,76 @@
+{
+  "uid" : "417a44a5502cd89",
+  "name" : "When I enter income as the income before tax",
+  "fullName" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator.When I enter income as the income before tax",
+  "historyId" : "980f35b489831940d82efbb9568082e4",
+  "time" : {
+    "start" : 1652017105881,
+    "stop" : 1652017106174,
+    "duration" : 293
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8956f84e61aef1ab",
+      "name" : "Screenshot",
+      "source" : "8956f84e61aef1ab.png",
+      "type" : "image/png",
+      "size" : 42286
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter income as the income before tax"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "417a44a5502cd89.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

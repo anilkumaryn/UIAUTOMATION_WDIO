@@ -1,0 +1,60 @@
+{
+  "uid" : "88461a4560cfc60",
+  "name" : "Then All the fields in the calculator are set to default values",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.Then All the fields in the calculator are set to default values",
+  "historyId" : "eaa0f2c537227e69ffc5d52c2552e888",
+  "time" : {
+    "start" : 1652017106668,
+    "stop" : 0,
+    "duration" : -1652017106668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then All the fields in the calculator are set to default values"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88461a4560cfc60.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

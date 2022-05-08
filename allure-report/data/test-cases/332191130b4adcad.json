@@ -1,0 +1,50 @@
+{
+  "uid" : "332191130b4adcad",
+  "name" : "I enter homeLoanRepay as the home loan repayment",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.I enter homeLoanRepay as the home loan repayment",
+  "historyId" : "baeed00f74ca95067c8dda132d95d1a",
+  "time" : {
+    "start" : 1652017106667,
+    "stop" : 1652017106667,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "I enter homeLoanRepay as the home loan repayment"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "332191130b4adcad.json",
+  "parameterValues" : [ ]
+}

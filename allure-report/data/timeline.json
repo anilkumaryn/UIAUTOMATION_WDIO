@@ -1,0 +1,6367 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Then All the fields in the calculator are set to default values",
+      "uid" : "59e734e5b9b59fe7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652020938900,
+        "stop" : 1652020949201,
+        "duration" : 10301
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "7685e7234fbbad04",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017306817,
+        "stop" : 1652017307187,
+        "duration" : 370
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "284c67d6420935da",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022136740,
+        "stop" : 1652022137044,
+        "duration" : 304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "d2497c3c9027e778",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022137044,
+        "stop" : 1652022137337,
+        "duration" : 293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "2f6fc07081f2830d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017249513,
+        "stop" : 1652017249825,
+        "duration" : 312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "b04a815c46c8960e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021263910,
+        "stop" : 1652021263912,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "7eb278029d35c561",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106543,
+        "stop" : 0,
+        "duration" : -1652017106543
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "d850a50972ef4ae0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106666,
+        "stop" : 0,
+        "duration" : -1652017106666
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "dad024125806592c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021184921,
+        "stop" : 1652021188894,
+        "duration" : 3973
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "a57693d716666c27",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016949412,
+        "stop" : 1652016949745,
+        "duration" : 333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "d3ed8f859c0d2ef0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021117957,
+        "stop" : 1652021118181,
+        "duration" : 224
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "f69f268b5418eccb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016946946,
+        "stop" : 1652016947291,
+        "duration" : 345
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "e6e48650e95a83b4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019448706,
+        "stop" : 1652019448707,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "f4cb0a5596468d71",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105640,
+        "stop" : 1652017105881,
+        "duration" : 241
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "b6d2e925d4603f41",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017249166,
+        "stop" : 1652017249167,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "5550ad065ad5ec18",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016944019,
+        "stop" : 1652016944622,
+        "duration" : 603
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "f16b161efa4122b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019433241,
+        "stop" : 1652019433773,
+        "duration" : 532
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "1d8e548092c21360",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020935727,
+        "stop" : 1652020935997,
+        "duration" : 270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "4d7178a59ea8563f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021184919,
+        "stop" : 1652021184921,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "84593277c6182597",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019434807,
+        "stop" : 1652019434807,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "7617f497205e4c3e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016777482,
+        "stop" : 1652016777734,
+        "duration" : 252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "8209ad256065cda8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020993327,
+        "stop" : 1652020993558,
+        "duration" : 231
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "77727cab05bcd5c9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021715379,
+        "stop" : 1652021715381,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "8b19f335524a3cdb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022137895,
+        "stop" : 1652022138250,
+        "duration" : 355
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "d34a6f48de88a22a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016777180,
+        "stop" : 1652016777482,
+        "duration" : 302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "6cf8a4bf86fb3642",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021719164,
+        "stop" : 1652021729540,
+        "duration" : 10376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "764ff106e592b091",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017305089,
+        "stop" : 1652017305333,
+        "duration" : 244
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "cfe865b52438377e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021201520,
+        "stop" : 1652021201521,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then All the fields in the calculator are set to default values",
+      "uid" : "6e95e17458669163",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652019438154,
+        "stop" : 1652019448706,
+        "duration" : 10552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "f7bf9433f8f86ad6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021801627,
+        "stop" : 1652021801904,
+        "duration" : 277
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "3f8d38124a74f9c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021201031,
+        "stop" : 1652021201291,
+        "duration" : 260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "289c537899f16be1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019432772,
+        "stop" : 1652019432993,
+        "duration" : 221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "2b4c617ced83c883",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021729541,
+        "stop" : 1652021729876,
+        "duration" : 335
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "1a44efc1cade465d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106659,
+        "stop" : 0,
+        "duration" : -1652017106659
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "d16e9287594545c1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016947291,
+        "stop" : 1652016947529,
+        "duration" : 238
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "571137981250394c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019435188,
+        "stop" : 1652019435410,
+        "duration" : 222
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "62e39ba708f362c7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020992889,
+        "stop" : 1652020993149,
+        "duration" : 260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "fac921ac717132a4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "65bc00f26b02de58",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016780613,
+        "stop" : 1652016780856,
+        "duration" : 243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "d1ef17b6f3bbf44e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021200806,
+        "stop" : 1652021201030,
+        "duration" : 224
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "b48393458874c56d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017106596,
+        "stop" : 1652017106604,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "6d90c80a97dc6ee8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020935998,
+        "stop" : 1652020935998,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "35320c37dd421b0c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021117707,
+        "stop" : 1652021117708,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then All the fields in the calculator are set to default values",
+      "uid" : "5f9c1758d02d5bf5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261081,
+        "stop" : 0,
+        "duration" : -1652017261081
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "7c82f86f66cf70b1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022125177,
+        "stop" : 1652022125497,
+        "duration" : 320
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 14,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "bb895e8865b5f6a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021280390,
+        "stop" : 1652021280575,
+        "duration" : 185
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "9e14163ba5de436f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652017106175,
+        "stop" : 1652017106538,
+        "duration" : 363
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "b47959d6c458392e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022119196,
+        "stop" : 1652022125156,
+        "duration" : 5960
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 14,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "2ab240cfb8ff1795",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021800477,
+        "stop" : 1652021800789,
+        "duration" : 312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "cde486fe3389042e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021801358,
+        "stop" : 1652021801627,
+        "duration" : 269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "a4829b6317ea29c3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021279912,
+        "stop" : 1652021280137,
+        "duration" : 225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "f4ac6d8978a4cca0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019434796,
+        "stop" : 1652019434806,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "d23b3b1d95b7ba97",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022125711,
+        "stop" : 1652022126008,
+        "duration" : 297
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 14,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "7bfb1193e0e321a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021789363,
+        "stop" : 1652021789363,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "25a42c95d832f621",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021731641,
+        "stop" : 1652021731642,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "85538761f12d2d6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106659,
+        "stop" : 0,
+        "duration" : -1652017106659
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "157059a468eedd12",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021910505,
+        "stop" : 1652021910505,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "4129315fba9edf0a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019431752,
+        "stop" : 1652019431753,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "249bc1dcdae4f622",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022136375,
+        "stop" : 1652022136740,
+        "duration" : 365
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "694e9161b6a1c389",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022137607,
+        "stop" : 1652022137895,
+        "duration" : 288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "e82cdf74a42af2b5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017260938,
+        "stop" : 1652017260950,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "99bc2b7bf2780e9d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020937882,
+        "stop" : 1652020938158,
+        "duration" : 276
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "161a2fb640602e58",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019432318,
+        "stop" : 1652019432536,
+        "duration" : 218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "af590f76dc0f9d50",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016781469,
+        "stop" : 1652016781761,
+        "duration" : 292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "6830243644cc4d59",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021201291,
+        "stop" : 1652021201512,
+        "duration" : 221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "2cafe8f64efff4cb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016950059,
+        "stop" : 1652016950344,
+        "duration" : 285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "59b24eff295873e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016948740,
+        "stop" : 1652016949086,
+        "duration" : 346
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "c7cebf6ca9706d74",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652021802528,
+        "stop" : 1652021802545,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "b094e1683917572f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020936002,
+        "stop" : 1652020936003,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "bb23764e83e3681a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016946611,
+        "stop" : 1652016946909,
+        "duration" : 298
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "8766af588bfe37a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017310475,
+        "stop" : 1652017310798,
+        "duration" : 323
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "417a44a5502cd89",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105881,
+        "stop" : 1652017106174,
+        "duration" : 293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "69b0bd40d0c990dc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016775571,
+        "stop" : 1652016775862,
+        "duration" : 291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "8ea3222ff51f502e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017311554,
+        "stop" : 1652017311888,
+        "duration" : 334
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "1c9c32a3358d3c28",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019426501,
+        "stop" : 1652019431752,
+        "duration" : 5251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "e3c335cc8da1e8bb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021789621,
+        "stop" : 1652021789828,
+        "duration" : 207
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then All the fields in the calculator are set to default values",
+      "uid" : "234764acda79381b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652016950586,
+        "stop" : 1652016960934,
+        "duration" : 10348
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "4c1f1f60cf979815",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022125497,
+        "stop" : 1652022125711,
+        "duration" : 214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 14,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "97cd160bed054d88",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106667,
+        "stop" : 0,
+        "duration" : -1652017106667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "3775f900957572e4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017304617,
+        "stop" : 1652017304618,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "aa4f4dcaf516979c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020936199,
+        "stop" : 1652020936435,
+        "duration" : 236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "7ef4d9dccd0e04e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021729876,
+        "stop" : 1652021730172,
+        "duration" : 296
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "12cee02ddb3102a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652021731616,
+        "stop" : 1652021731640,
+        "duration" : 24
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "1efc3598fca09a6b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105036,
+        "stop" : 1652017105036,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "cba42656ebe53205",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021189602,
+        "stop" : 1652021199875,
+        "duration" : 10273
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "a2774501fcb617a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017308229,
+        "stop" : 1652017308230,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "4e0e27f9ef443f08",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021802226,
+        "stop" : 1652021802528,
+        "duration" : 302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "6cf866c9a235329c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016778576,
+        "stop" : 1652016778829,
+        "duration" : 253
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "502763ef30ca2c41",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017299451,
+        "stop" : 1652017299453,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "e38750f46cc83f8c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021718945,
+        "stop" : 1652021719164,
+        "duration" : 219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "54cbaed659fa3085",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021280596,
+        "stop" : 1652021280597,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "68a12a156ff5c004",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016778857,
+        "stop" : 1652016779152,
+        "duration" : 295
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "98a1ea5c69203f84",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021117691,
+        "stop" : 1652021117692,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "8e144c38b346dacd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017243318,
+        "stop" : 1652017243320,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "5dc9c1af2b8a6d51",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021279439,
+        "stop" : 1652021279681,
+        "duration" : 242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "9e1338b0ec964219",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017299453,
+        "stop" : 1652017304596,
+        "duration" : 5143
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "f28bad65266216ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106544,
+        "stop" : 0,
+        "duration" : -1652017106544
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "41af7e65f721e2d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020935446,
+        "stop" : 1652020935727,
+        "duration" : 281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "aa7902426f5ed776",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019437064,
+        "stop" : 1652019437342,
+        "duration" : 278
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "219f7846011a456b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106667,
+        "stop" : 0,
+        "duration" : -1652017106667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "de378028bfe57a76",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021280137,
+        "stop" : 1652021280389,
+        "duration" : 252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "ca939f7b8aa51040",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017310798,
+        "stop" : 1652017311067,
+        "duration" : 269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "74b32523bdb8cfd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017308220,
+        "stop" : 1652017308229,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "6a5feb63373fb44b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021279162,
+        "stop" : 1652021279439,
+        "duration" : 277
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "6d98e20366855042",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020929550,
+        "stop" : 1652020934781,
+        "duration" : 5231
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "cbb652219e8707cc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106545,
+        "stop" : 0,
+        "duration" : -1652017106545
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I click on start over button",
+      "uid" : "6a2db00d4d544e15",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106668,
+        "stop" : 0,
+        "duration" : -1652017106668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "bbd29ff3b7717dfa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021268126,
+        "stop" : 1652021268340,
+        "duration" : 214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "4facb8d06b10e42f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021783284,
+        "stop" : 1652021789348,
+        "duration" : 6064
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "4a6b7b32ebc93920",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021188894,
+        "stop" : 1652021188895,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "db39a529668fc41c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106660,
+        "stop" : 0,
+        "duration" : -1652017106660
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "b27abc47437b0e18",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "87e790d18ab19901",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016778829,
+        "stop" : 1652016778838,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "ce0dcfe5f38fe783",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017309169,
+        "stop" : 1652017309428,
+        "duration" : 259
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "283101537a3bcbc0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016779323,
+        "stop" : 1652016779561,
+        "duration" : 238
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "e2dd8a50be5fe902",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021718478,
+        "stop" : 1652021718479,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "ef6e1705b469801c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016780856,
+        "stop" : 1652016781100,
+        "duration" : 244
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I click on start over button",
+      "uid" : "29340affe48fb7ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020938669,
+        "stop" : 1652020938900,
+        "duration" : 231
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I click on start over button",
+      "uid" : "60f5a6e59760cdb1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016781761,
+        "stop" : 1652016782075,
+        "duration" : 314
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "5a710e6a446fcb55",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019434824,
+        "stop" : 1652019434825,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "a29f69952deba72b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017322452,
+        "stop" : 1652017322453,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "e61942dce33b7322",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017101819,
+        "stop" : 1652017105018,
+        "duration" : 3199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "5d730d1c736fc746",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021113133,
+        "stop" : 1652021117691,
+        "duration" : 4558
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "e7fc35d88ed67552",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019434030,
+        "stop" : 1652019434546,
+        "duration" : 516
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "caf049cb176dab82",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017308253,
+        "stop" : 1652017308672,
+        "duration" : 419
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "e30b73cf8c68c016",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106667,
+        "stop" : 0,
+        "duration" : -1652017106667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "9bc341cc18a9bf37",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260926,
+        "stop" : 0,
+        "duration" : -1652017260926
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "7ec5925c5511ff1e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021117708,
+        "stop" : 1652021117957,
+        "duration" : 249
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "a11918345181c0f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017305333,
+        "stop" : 1652017305715,
+        "duration" : 382
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "d56dbc88abe42053",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016930829,
+        "stop" : 1652016942451,
+        "duration" : 11622
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "eea916ab7d3b68a0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106544,
+        "stop" : 0,
+        "duration" : -1652017106544
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then All the fields in the calculator are set to default values",
+      "uid" : "32c06c4f36a2020",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652016782075,
+        "stop" : 1652016792473,
+        "duration" : 10398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "1d0cb7468739bce4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "2a3127c57023ddbd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017309790,
+        "stop" : 1652017310172,
+        "duration" : 382
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "c2b21bcb665c09da",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016777734,
+        "stop" : 1652016777999,
+        "duration" : 265
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "2a459c7dc8293f50",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017106668,
+        "stop" : 1652017106669,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "9d4049922058c2c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021922191,
+        "stop" : 1652021922415,
+        "duration" : 224
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "f5115bf5dcfaeaae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016779786,
+        "stop" : 1652016780095,
+        "duration" : 309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "659dfb4e96dcde70",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020987767,
+        "stop" : 1652020992864,
+        "duration" : 5097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "2447481062bba9d3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019431950,
+        "stop" : 1652019432120,
+        "duration" : 170
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "110b4f0872244aaf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019437342,
+        "stop" : 1652019437631,
+        "duration" : 289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "811c029a5f80e820",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260930,
+        "stop" : 0,
+        "duration" : -1652017260930
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "447e46a4d718882",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022137337,
+        "stop" : 1652022137607,
+        "duration" : 270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "db7f72b40ea9a42a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019432121,
+        "stop" : 1652019432318,
+        "duration" : 197
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "a5af0143c78fe40a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017304596,
+        "stop" : 1652017304597,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "1d25241ff0966b19",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017307187,
+        "stop" : 1652017307532,
+        "duration" : 345
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "fa50092f9a47c449",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020938158,
+        "stop" : 1652020938436,
+        "duration" : 278
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "921b13ff12741f56",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016946917,
+        "stop" : 1652016946920,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "652203bcb3f33f85",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021730172,
+        "stop" : 1652021730455,
+        "duration" : 283
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "3e31e4541a9e6db9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021128659,
+        "stop" : 1652021128659,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "6b9ae745c2bb46ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "2126a09bee402199",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016949086,
+        "stop" : 1652016949412,
+        "duration" : 326
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "aba53586e395d4c3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019432993,
+        "stop" : 1652019433241,
+        "duration" : 248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "14a9f74904d61536",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020949201,
+        "stop" : 1652020949202,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "74bd98c5e1488f2e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021910506,
+        "stop" : 1652021910753,
+        "duration" : 247
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "61def3a9d0500fe3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021783281,
+        "stop" : 1652021783284,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "2360135a3ed944b0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021268341,
+        "stop" : 1652021268601,
+        "duration" : 260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "e6b3cc1d648e89ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020992888,
+        "stop" : 1652020992889,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "510350e043e1547d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016930824,
+        "stop" : 1652016930829,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "e7826dedc44c6bdb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016769963,
+        "stop" : 1652016775555,
+        "duration" : 5592
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "66c0faf286fe9291",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021923142,
+        "stop" : 1652021923143,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "7232306bddb40943",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021188910,
+        "stop" : 1652021188911,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "b10ef3707264070b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021800789,
+        "stop" : 1652021801077,
+        "duration" : 288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "f5f2fdce9be9162a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021200551,
+        "stop" : 1652021200806,
+        "duration" : 255
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "b34392a599a49929",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019436240,
+        "stop" : 1652019436538,
+        "duration" : 298
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "bcf9e0ca62213b01",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021718731,
+        "stop" : 1652021718945,
+        "duration" : 214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "4b14116a41744f62",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020938436,
+        "stop" : 1652020938668,
+        "duration" : 232
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "bf32ed5ad44bafbe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020993149,
+        "stop" : 1652020993326,
+        "duration" : 177
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "e2a788ecaab15e26",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017304618,
+        "stop" : 1652017304848,
+        "duration" : 230
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I click on start over button",
+      "uid" : "89ff6ac3076597cb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "56128c56562f0cb2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016942484,
+        "stop" : 1652016942485,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "4eaeddd68c31be2e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016945454,
+        "stop" : 1652016945817,
+        "duration" : 363
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "e1c9644ef46b1940",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022125157,
+        "stop" : 1652022125158,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 29,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "2e3b1d58c2108deb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017250143,
+        "stop" : 1652017250663,
+        "duration" : 520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "23f3fd46add011df",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021731368,
+        "stop" : 1652021731616,
+        "duration" : 248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "23a9e61e8fe8c724",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016948054,
+        "stop" : 1652016948437,
+        "duration" : 383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "4cde4ccbee978835",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016792473,
+        "stop" : 1652016792474,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "4605043d8079c83e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020935203,
+        "stop" : 1652020935446,
+        "duration" : 243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "6afadfd1c315b0bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017304848,
+        "stop" : 1652017305089,
+        "duration" : 241
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "645bc3ed2da726fc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021922632,
+        "stop" : 1652021922921,
+        "duration" : 289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "24db384c4cc147eb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021730455,
+        "stop" : 1652021730735,
+        "duration" : 280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "6a1eb2eabfd65441",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021790057,
+        "stop" : 1652021800476,
+        "duration" : 10419
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "ecff9d61c1b99088",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017249825,
+        "stop" : 1652017250142,
+        "duration" : 317
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "228994f072a05690",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260933,
+        "stop" : 0,
+        "duration" : -1652017260933
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "9f01387965b7fad1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021910488,
+        "stop" : 1652021910489,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "f5350da0ffbc0541",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016780095,
+        "stop" : 1652016780359,
+        "duration" : 264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "9020008d7ab0ff4e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019436805,
+        "stop" : 1652019437064,
+        "duration" : 259
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "1ed11288e6c36b64",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "c1c7b3afd22a85bb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260936,
+        "stop" : 0,
+        "duration" : -1652017260936
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "76b33491cfa420cf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017249167,
+        "stop" : 1652017249513,
+        "duration" : 346
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "b71c66afc32314f5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016778838,
+        "stop" : 1652016778840,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "3525d00260df456b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260934,
+        "stop" : 0,
+        "duration" : -1652017260934
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "214a7820a3afb274",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017106545,
+        "stop" : 1652017106560,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "71d147bd8d60f37d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021801077,
+        "stop" : 1652021801358,
+        "duration" : 281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then All the fields in the calculator are set to default values",
+      "uid" : "88461a4560cfc60",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106668,
+        "stop" : 0,
+        "duration" : -1652017106668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "34d25616a85e5a80",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021921698,
+        "stop" : 1652021921941,
+        "duration" : 243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "f0281bdec635f1f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016944623,
+        "stop" : 1652016945137,
+        "duration" : 514
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "a7111ec437ecf921",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260935,
+        "stop" : 0,
+        "duration" : -1652017260935
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "36e2e5894e8e0e3a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021279681,
+        "stop" : 1652021279912,
+        "duration" : 231
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "7df74b0db4f549a3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016960935,
+        "stop" : 1652016960937,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "1025b56decee7443",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020934803,
+        "stop" : 1652020934804,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "98dbdd76f0a486e2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016778856,
+        "stop" : 1652016778857,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "32885b9241d0d142",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652021280575,
+        "stop" : 1652021280596,
+        "duration" : 21
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then All the fields in the calculator are set to default values",
+      "uid" : "1cfef5f52dfcaba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652017312127,
+        "stop" : 1652017322452,
+        "duration" : 10325
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "cc7e1334217c8563",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021118391,
+        "stop" : 1652021128658,
+        "duration" : 10267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "e298bedef190cfff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017307532,
+        "stop" : 1652017307928,
+        "duration" : 396
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "45efed1f7435a709",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021113131,
+        "stop" : 1652021113132,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "e93ae23b92ce141a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021905425,
+        "stop" : 1652021905428,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "7f3ab5c1afbf414e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106667,
+        "stop" : 0,
+        "duration" : -1652017106667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "a7fd76ce97c47250",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021718494,
+        "stop" : 1652021718731,
+        "duration" : 237
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "4be641946f220ea8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016946197,
+        "stop" : 1652016946610,
+        "duration" : 413
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "216fbe20f8b4975d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016775863,
+        "stop" : 1652016776107,
+        "duration" : 244
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "82cf649a403a6c63",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016942998,
+        "stop" : 1652016943551,
+        "duration" : 553
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "a05327753d09f389",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021200110,
+        "stop" : 1652021200356,
+        "duration" : 246
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "72d426a5debe64b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106538,
+        "stop" : 0,
+        "duration" : -1652017106538
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "56ae1f706e8eeeb7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019426498,
+        "stop" : 1652019426501,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "c011c4cdf08cfa0e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017261081,
+        "stop" : 1652017261081,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "ed55fc7ca1cabc37",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020934781,
+        "stop" : 1652020934782,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "e5f7e856089d621d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022138250,
+        "stop" : 1652022138509,
+        "duration" : 259
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "c17e7373941d8f0c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021789348,
+        "stop" : 1652021789349,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "3bf6064587b9acbb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021199875,
+        "stop" : 1652021200110,
+        "duration" : 235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "c4dfa5084a77d319",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022138788,
+        "stop" : 1652022138789,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 29,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "84505d80721e058",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020992864,
+        "stop" : 1652020992868,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "a3bd19706c5b59a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016946945,
+        "stop" : 1652016946946,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "c2e0cfc38f2bd8fa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016780359,
+        "stop" : 1652016780613,
+        "duration" : 254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "7fa1254494ca176a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106659,
+        "stop" : 0,
+        "duration" : -1652017106659
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "b9c0e5ac32642a5a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020936003,
+        "stop" : 1652020936198,
+        "duration" : 195
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "83010e47067c94d5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021802545,
+        "stop" : 1652021802546,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "337e1ce7e88de1c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105370,
+        "stop" : 1652017105640,
+        "duration" : 270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "f813fb25f58cc02",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016949745,
+        "stop" : 1652016950059,
+        "duration" : 314
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "ff01f5478ec0fa4e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021730735,
+        "stop" : 1652021731026,
+        "duration" : 291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "8013afe8cb2fc40b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021921941,
+        "stop" : 1652021922191,
+        "duration" : 250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "be4b7aa7da576d90",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017308672,
+        "stop" : 1652017308933,
+        "duration" : 261
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "92c1f74f46e6bcd3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105018,
+        "stop" : 1652017105020,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "f14f37b8e26432a7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016776513,
+        "stop" : 1652016776846,
+        "duration" : 333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "d42a5e1bc961895",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017310172,
+        "stop" : 1652017310475,
+        "duration" : 303
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "d4002e70a8cd1e10",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652017106604,
+        "stop" : 1652017106659,
+        "duration" : 55
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "f194e92a474c65ec",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "470fa39b201f6939",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021715381,
+        "stop" : 1652021718478,
+        "duration" : 3097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "7a0572546624980c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016945817,
+        "stop" : 1652016946197,
+        "duration" : 380
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "888cde0ab7e90d9b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021278917,
+        "stop" : 1652021279162,
+        "duration" : 245
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "d26674709be50139",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017308933,
+        "stop" : 1652017309169,
+        "duration" : 236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "45d87c606e95e8cf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016779152,
+        "stop" : 1652016779323,
+        "duration" : 171
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "a5e18578a326e32a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021200356,
+        "stop" : 1652021200551,
+        "duration" : 195
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "cfa92381cb83b79d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022126008,
+        "stop" : 1652022136374,
+        "duration" : 10366
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "e7cd190061d0c747",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017105037,
+        "stop" : 1652017105369,
+        "duration" : 332
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "1a7323ae64ed75e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021921446,
+        "stop" : 1652021921698,
+        "duration" : 252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "be3f3183008084e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261079,
+        "stop" : 0,
+        "duration" : -1652017261079
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "5ee9c5f357a7ef95",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020993558,
+        "stop" : 1652020993906,
+        "duration" : 348
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "7bd49f6faaa6b50e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021718493,
+        "stop" : 1652021718494,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I click on start over button",
+      "uid" : "3166028227067372",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017311888,
+        "stop" : 1652017312127,
+        "duration" : 239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "2b1084205d1922b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016942486,
+        "stop" : 1652016942764,
+        "duration" : 278
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "d6e830526587adbd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652021923125,
+        "stop" : 1652021923142,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "ce11b3bbda80bb1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021267853,
+        "stop" : 1652021267854,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "823f447263fcd4e5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017308252,
+        "stop" : 1652017308253,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "8835f4cc42205b4a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020987763,
+        "stop" : 1652020987766,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "b2f87595904b392",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017305715,
+        "stop" : 1652017306130,
+        "duration" : 415
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "be6708f95ffe29a7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021922922,
+        "stop" : 1652021923125,
+        "duration" : 203
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "854ec9b647b021",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020936624,
+        "stop" : 1652020936798,
+        "duration" : 174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "bedd0a862dc3a033",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020934804,
+        "stop" : 1652020935203,
+        "duration" : 399
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "c213d4717ecdb8b7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021189152,
+        "stop" : 1652021189347,
+        "duration" : 195
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "eb20e07c5be1cf44",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017306453,
+        "stop" : 1652017306817,
+        "duration" : 364
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "d7284bdbff558e3d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106545,
+        "stop" : 0,
+        "duration" : -1652017106545
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "2479c666c658fded",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019433773,
+        "stop" : 1652019434030,
+        "duration" : 257
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "3afd2176c9a017a4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652017261041,
+        "stop" : 1652017261079,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "44c44f6a63aeb1e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021789363,
+        "stop" : 1652021789621,
+        "duration" : 258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "e7a70c47b77cf138",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016769957,
+        "stop" : 1652016769962,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "ddb37588a033e22a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016776107,
+        "stop" : 1652016776512,
+        "duration" : 405
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "3ae1fd198d497d99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106543,
+        "stop" : 0,
+        "duration" : -1652017106543
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "68d4e8160146b2e9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020929547,
+        "stop" : 1652020929550,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "64e0420ed70c30b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019435410,
+        "stop" : 1652019435652,
+        "duration" : 242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "126488359d5e9b40",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021188911,
+        "stop" : 1652021189152,
+        "duration" : 241
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "39f347b36dc8ff50",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019432536,
+        "stop" : 1652019432772,
+        "duration" : 236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "5bb95437a388c543",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652017250663,
+        "stop" : 1652017260924,
+        "duration" : 10261
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "96d18ac27edb04c9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021118181,
+        "stop" : 1652021118391,
+        "duration" : 210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "a7c9c5eeff416e98",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019437631,
+        "stop" : 1652019437861,
+        "duration" : 230
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "b98e13418ae66e44",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020937352,
+        "stop" : 1652020937626,
+        "duration" : 274
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "284ba376fd340360",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016943551,
+        "stop" : 1652016944019,
+        "duration" : 468
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "1953da5c4fd9464",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017243320,
+        "stop" : 1652017249146,
+        "duration" : 5826
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "3e404ec53e07f79d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "dbb909f353f2348c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021801904,
+        "stop" : 1652021802225,
+        "duration" : 321
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "64cd6955bce7e050",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016781100,
+        "stop" : 1652016781469,
+        "duration" : 369
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "3e761874e1f6b73e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019431763,
+        "stop" : 1652019431950,
+        "duration" : 187
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "ffc680fbe7556de3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021905428,
+        "stop" : 1652021910488,
+        "duration" : 5060
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "cb3e4b8e8ef2152a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020936435,
+        "stop" : 1652020936624,
+        "duration" : 189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "977d6fb413e0f983",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017311067,
+        "stop" : 1652017311554,
+        "duration" : 487
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "65f75ff7e21984d6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016775555,
+        "stop" : 1652016775556,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "424779917e84e921",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016942764,
+        "stop" : 1652016942998,
+        "duration" : 234
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "a5fd4c4c1bc91793",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019434826,
+        "stop" : 1652019435187,
+        "duration" : 361
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "22c55c2573ba60b0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022119193,
+        "stop" : 1652022119196,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "f4271c382427d78d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017307928,
+        "stop" : 1652017308220,
+        "duration" : 292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "87e9b35de469dbe1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652022125176,
+        "stop" : 1652022125177,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "e0e49eaf82d84091",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016776846,
+        "stop" : 1652016777179,
+        "duration" : 333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select application type as single",
+      "uid" : "9de1de36b65ef836",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021267854,
+        "stop" : 1652021268126,
+        "duration" : 272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "c5b7e1163780e720",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021911188,
+        "stop" : 1652021921446,
+        "duration" : 10258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "a60a97999bb0bbb7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019431763,
+        "stop" : 1652019431763,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "a60a22aed4d8c72d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016947530,
+        "stop" : 1652016947780,
+        "duration" : 250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select workout how much i could borrow button",
+      "uid" : "220bb61118c2cf58",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019434547,
+        "stop" : 1652019434795,
+        "duration" : 248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Given I am on the calculator page",
+      "uid" : "9595077616111390",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021263912,
+        "stop" : 1652021267834,
+        "duration" : 3922
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "b0aab47cd03389a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021267834,
+        "stop" : 1652021267835,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I click on start over button",
+      "uid" : "a6b8c17110078342",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019437861,
+        "stop" : 1652019438154,
+        "duration" : 293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "1c501f5b405616f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017306130,
+        "stop" : 1652017306453,
+        "duration" : 323
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "455c87ee5f94dc2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016948437,
+        "stop" : 1652016948740,
+        "duration" : 303
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "39286533189e62c7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021189347,
+        "stop" : 1652021189602,
+        "duration" : 255
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter 80000 $ as the income before tax",
+      "uid" : "d747262b4fa386c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021268601,
+        "stop" : 1652021278916,
+        "duration" : 10315
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I click on start over button",
+      "uid" : "74bd672d09d98995",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016950344,
+        "stop" : 1652016950586,
+        "duration" : 242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "91bde88597fe7ff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016942452,
+        "stop" : 1652016942455,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "bdacac5ff3213b04",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016777999,
+        "stop" : 1652016778263,
+        "duration" : 264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "3004ac5c0eb6da74",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020936799,
+        "stop" : 1652020937071,
+        "duration" : 272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "665fe86faf0687df",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016945137,
+        "stop" : 1652016945454,
+        "duration" : 317
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "26075d6726b44012",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016946910,
+        "stop" : 1652016946917,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "38fe32b53a994497",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021731026,
+        "stop" : 1652021731368,
+        "duration" : 342
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "19b42da457e97126",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652022138509,
+        "stop" : 1652022138788,
+        "duration" : 279
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "9f9de8b09876d75a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017261023,
+        "stop" : 1652017261040,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "5f28b76dba313161",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261079,
+        "stop" : 0,
+        "duration" : -1652017261079
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "ec23fb3ce98e1b89",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021910973,
+        "stop" : 1652021911188,
+        "duration" : 215
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "4bac737d5797801b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017309428,
+        "stop" : 1652017309790,
+        "duration" : 362
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "882dcad84b602d0b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017101816,
+        "stop" : 1652017101819,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherIncome as the other income",
+      "uid" : "790ee0fd414d169f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019435936,
+        "stop" : 1652019436240,
+        "duration" : 304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "b12d34d0aa19a2c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016947780,
+        "stop" : 1652016948054,
+        "duration" : 274
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter homeLoanRepay as the home loan repayment",
+      "uid" : "4a13715350a8ada5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019436538,
+        "stop" : 1652019436805,
+        "duration" : 267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "7ffe78c1f90553b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106667,
+        "stop" : 0,
+        "duration" : -1652017106667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "52d495fbde3b75f3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019435652,
+        "stop" : 1652019435936,
+        "duration" : 284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "7eb228cc9e0ef7a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020993906,
+        "stop" : 1652020993907,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "bdcb5f1889a0eb0e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020937626,
+        "stop" : 1652020937881,
+        "duration" : 255
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select property type as home to live in",
+      "uid" : "6aa18ca08ff7af15",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021789828,
+        "stop" : 1652021790057,
+        "duration" : 229
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I select number of dependents as zero",
+      "uid" : "bf27f6c81fdc0d86",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021910754,
+        "stop" : 1652021910973,
+        "duration" : 219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter income as the income before tax",
+      "uid" : "1cdbcff0c7fa4e0a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016779561,
+        "stop" : 1652016779786,
+        "duration" : 225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "9555ffc32d767c11",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017249146,
+        "stop" : 1652017249147,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then I should see the correct estimated borrow amount",
+      "uid" : "92e65d5ecde00f8d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021201512,
+        "stop" : 1652021201520,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "d6cc5635889ad63e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter MonthlyExpenses as the living expenses",
+      "uid" : "eada9c1ca2c7a003",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652020937071,
+        "stop" : 1652020937352,
+        "duration" : 281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "3f1e0dbb45bb6b33",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016775570,
+        "stop" : 1652016775571,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter other Monthly Commitment as the other commitment",
+      "uid" : "92c0751ffdbae4b3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021922415,
+        "stop" : 1652021922632,
+        "duration" : 217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+      "uid" : "255efc599d1aed55",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260931,
+        "stop" : 0,
+        "duration" : -1652017260931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When I enter total CreditCard Limits as the total credit card limits",
+      "uid" : "2c9092365f64d1bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016778263,
+        "stop" : 1652016778576,
+        "duration" : 313
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "I enter homeLoanRepay as the home loan repayment",
+    "uid" : "56f1219d41617c8f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106543,
+      "stop" : 1652017106543,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter other Monthly Commitment as the other commitment",
+    "uid" : "9db28ea40cd2794a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106667,
+      "stop" : 1652017106667,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter total CreditCard Limits as the total credit card limits",
+    "uid" : "dfced114faf4e911",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106545,
+      "stop" : 1652017106545,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I click on start over button",
+    "uid" : "d75dffbf7a794b93",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select property type as home to live in",
+    "uid" : "472a29a6c73243ef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter homeLoanRepay as the home loan repayment",
+    "uid" : "a1a4ff7d4386345b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017260931,
+      "stop" : 1652017260931,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter homeLoanRepay as the home loan repayment",
+    "uid" : "332191130b4adcad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106667,
+      "stop" : 1652017106667,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter MonthlyExpenses as the living expenses",
+    "uid" : "a21400a45ec348c5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106667,
+      "stop" : 1652017106667,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select number of dependents as zero",
+    "uid" : "131854ded0e1c6b0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261079,
+      "stop" : 1652017261079,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select workout how much i could borrow button",
+    "uid" : "ada347b55c02c6ce",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106545,
+      "stop" : 1652017106545,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter MonthlyExpenses as the living expenses",
+    "uid" : "2705b93aebe8cabe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017260930,
+      "stop" : 1652017260930,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select property type as home to live in",
+    "uid" : "823fd37c16e36be9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106659,
+      "stop" : 1652017106659,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I click on start over button",
+    "uid" : "8a64ab7d5e83fcae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106668,
+      "stop" : 1652017106668,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter otherMonthlyLoanRepay as the other loan repayment",
+    "uid" : "a04f5e767930deef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106544,
+      "stop" : 1652017106544,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter MonthlyExpenses as the living expenses",
+    "uid" : "676fdb9f977619c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106542,
+      "stop" : 1652017106542,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter total CreditCard Limits as the total credit card limits",
+    "uid" : "1c0ff81d449bbb00",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select workout how much i could borrow button",
+    "uid" : "ecfc3172590f442a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter MonthlyExpenses as the living expenses",
+    "uid" : "d3916c177c37ad03",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter total CreditCard Limits as the total credit card limits",
+    "uid" : "e036e50fb86ef639",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106667,
+      "stop" : 1652017106667,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter otherIncome as the other income",
+    "uid" : "40acd3dc8d07240f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select workout how much i could borrow button",
+    "uid" : "d63004fc26d43f97",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106667,
+      "stop" : 1652017106667,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter otherMonthlyLoanRepay as the other loan repayment",
+    "uid" : "7bc333346601de30",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017260932,
+      "stop" : 1652017260932,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter income as the income before tax",
+    "uid" : "7746647e2bfa4697",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select number of dependents as zero",
+    "uid" : "91c8e35d3a78d0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106659,
+      "stop" : 1652017106659,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "All the fields in the calculator are set to default values",
+    "uid" : "76badd1df93352fc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261081,
+      "stop" : 1652017261081,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter otherIncome as the other income",
+    "uid" : "2a34924838ae9c84",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106660,
+      "stop" : 1652017106660,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I select workout how much i could borrow button",
+    "uid" : "7d06fca07de5b009",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017260936,
+      "stop" : 1652017260936,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter income as the income before tax",
+    "uid" : "10c626faa26c20f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106660,
+      "stop" : 1652017106660,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter homeLoanRepay as the home loan repayment",
+    "uid" : "c60b6296eb03ad76",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter otherMonthlyLoanRepay as the other loan repayment",
+    "uid" : "d63ed419f0159e4a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106667,
+      "stop" : 1652017106667,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter total CreditCard Limits as the total credit card limits",
+    "uid" : "a1e0222a1f91ac4a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017260935,
+      "stop" : 1652017260935,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I should see the correct estimated borrow amount",
+    "uid" : "301ce1b58a4379c5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106545,
+      "stop" : 1652017106545,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter other Monthly Commitment as the other commitment",
+    "uid" : "8fc498c9fb95f8f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106544,
+      "stop" : 1652017106544,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "All the fields in the calculator are set to default values",
+    "uid" : "b033dccec8d8c1d6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017106668,
+      "stop" : 1652017106668,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I should see the correct estimated borrow amount",
+    "uid" : "cec48df8f8b69229",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017260937,
+      "stop" : 1652017260937,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter otherMonthlyLoanRepay as the other loan repayment",
+    "uid" : "228f36a2ce488bc5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter other Monthly Commitment as the other commitment",
+    "uid" : "4eda024f2178d688",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017261080,
+      "stop" : 1652017261080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I enter other Monthly Commitment as the other commitment",
+    "uid" : "90079ab1c5374ded",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1652017260934,
+      "stop" : 1652017260934,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "8766af588bfe37a6",
+  "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I enter otherMonthlyLoanRepay as the other loan repayment",
+  "historyId" : "7dc18a6d4c5c1df22f742ee1a003e8a8",
+  "time" : {
+    "start" : 1652017310475,
+    "stop" : 1652017310798,
+    "duration" : 323
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "66368d3805ad19a6",
+      "name" : "Screenshot",
+      "source" : "66368d3805ad19a6.png",
+      "type" : "image/png",
+      "size" : 93112
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter otherMonthlyLoanRepay as the other loan repayment"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8766af588bfe37a6.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

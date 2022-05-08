@@ -1,0 +1,82 @@
+{
+  "uid" : "caf049cb176dab82",
+  "name" : "When I select application type as single",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I select application type as single",
+  "historyId" : "b5291c7db07501b5fc94590d9b3a4590",
+  "time" : {
+    "start" : 1652017308253,
+    "stop" : 1652017308672,
+    "duration" : 419
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ec33a718d0ff02ee",
+      "name" : "Screenshot",
+      "source" : "ec33a718d0ff02ee.png",
+      "type" : "image/png",
+      "size" : 38313
+    }, {
+      "uid" : "56885318a82d8537",
+      "name" : "Screenshot",
+      "source" : "56885318a82d8537.png",
+      "type" : "image/png",
+      "size" : 38845
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select application type as single"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caf049cb176dab82.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

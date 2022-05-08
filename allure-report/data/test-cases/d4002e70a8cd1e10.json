@@ -1,0 +1,62 @@
+{
+  "uid" : "d4002e70a8cd1e10",
+  "name" : "When I select application type as single",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I select application type as single",
+  "historyId" : "b5291c7db07501b5fc94590d9b3a4590",
+  "time" : {
+    "start" : 1652017106604,
+    "stop" : 1652017106659,
+    "duration" : 55
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "no such window: no such window: target window already closed",
+  "statusTrace" : "no such window: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=101.0.4951.54)\n                    at Object.getErrorFromResponseBody (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\webdriver\\build\\utils.js:189:12)\n                    at WebDriverRequest._request (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\webdriver\\build\\request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Browser.wrapCommandFn (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\@wdio\\utils\\build\\shim.js:78:29)\n                    at Browser.$ (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:83:17)\n                    at Browser.wrapCommandFn (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\@wdio\\utils\\build\\shim.js:78:29)\n                    at HomePage.selectSingleAsApplicationType (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\features\\pageobjects\\/home.page.js:35:16)\n                    at World.<anonymous> (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\features\\step-definitions\\/steps.js:15:5)\n                    at World.executeAsync (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\@wdio\\utils\\build\\shim.js:136:16)\n                    at World.testFrameworkFnWrapper (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:52:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select application type as single"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4002e70a8cd1e10.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

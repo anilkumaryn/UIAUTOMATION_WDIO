@@ -1,0 +1,126 @@
+{
+  "uid" : "bdcb5f1889a0eb0e",
+  "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I enter otherMonthlyLoanRepay as the other loan repayment",
+  "historyId" : "7dc18a6d4c5c1df22f742ee1a003e8a8",
+  "time" : {
+    "start" : 1652020937626,
+    "stop" : 1652020937881,
+    "duration" : 255
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7cb443666ec3ce3f",
+      "name" : "Screenshot",
+      "source" : "7cb443666ec3ce3f.png",
+      "type" : "image/png",
+      "size" : 92550
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter otherMonthlyLoanRepay as the other loan repayment"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9020008d7ab0ff4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019436805,
+        "stop" : 1652019437064,
+        "duration" : 259
+      }
+    }, {
+      "uid" : "8766af588bfe37a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017310475,
+        "stop" : 1652017310798,
+        "duration" : 323
+      }
+    }, {
+      "uid" : "f194e92a474c65ec",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      }
+    }, {
+      "uid" : "219f7846011a456b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106667,
+        "stop" : 0,
+        "duration" : -1652017106667
+      }
+    }, {
+      "uid" : "2126a09bee402199",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016949086,
+        "stop" : 1652016949412,
+        "duration" : 326
+      }
+    }, {
+      "uid" : "65bc00f26b02de58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016780613,
+        "stop" : 1652016780856,
+        "duration" : 243
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdcb5f1889a0eb0e.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

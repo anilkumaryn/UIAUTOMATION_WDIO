@@ -1,0 +1,166 @@
+{
+  "uid" : "447e46a4d718882",
+  "name" : "When I enter otherMonthlyLoanRepay as the other loan repayment",
+  "fullName" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator.When I enter otherMonthlyLoanRepay as the other loan repayment",
+  "historyId" : "a3c7ab0b729ae2dd8dcc7a75bfbeaf68",
+  "time" : {
+    "start" : 1652022137337,
+    "stop" : 1652022137607,
+    "duration" : 270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 11,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8c254f3196ad9a1e",
+      "name" : "Screenshot",
+      "source" : "8c254f3196ad9a1e.png",
+      "type" : "image/png",
+      "size" : 92873
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter otherMonthlyLoanRepay as the other loan repayment"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9d4049922058c2c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021922191,
+        "stop" : 1652021922415,
+        "duration" : 224
+      }
+    }, {
+      "uid" : "cde486fe3389042e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021801358,
+        "stop" : 1652021801627,
+        "duration" : 269
+      }
+    }, {
+      "uid" : "24db384c4cc147eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021730455,
+        "stop" : 1652021730735,
+        "duration" : 280
+      }
+    }, {
+      "uid" : "36e2e5894e8e0e3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021279681,
+        "stop" : 1652021279912,
+        "duration" : 231
+      }
+    }, {
+      "uid" : "f5f2fdce9be9162a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652021200551,
+        "stop" : 1652021200806,
+        "duration" : 255
+      }
+    }, {
+      "uid" : "f16b161efa4122b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019433241,
+        "stop" : 1652019433773,
+        "duration" : 532
+      }
+    }, {
+      "uid" : "7685e7234fbbad04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017306817,
+        "stop" : 1652017307187,
+        "duration" : 370
+      }
+    }, {
+      "uid" : "255efc599d1aed55",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017260931,
+        "stop" : 0,
+        "duration" : -1652017260931
+      }
+    }, {
+      "uid" : "7eb278029d35c561",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106543,
+        "stop" : 0,
+        "duration" : -1652017106543
+      }
+    }, {
+      "uid" : "4eaeddd68c31be2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016945454,
+        "stop" : 1652016945817,
+        "duration" : 363
+      }
+    }, {
+      "uid" : "c2b21bcb665c09da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016777734,
+        "stop" : 1652016777999,
+        "duration" : 265
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "447e46a4d718882.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

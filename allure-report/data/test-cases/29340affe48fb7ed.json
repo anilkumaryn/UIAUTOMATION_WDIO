@@ -1,0 +1,126 @@
+{
+  "uid" : "29340affe48fb7ed",
+  "name" : "When I click on start over button",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.When I click on start over button",
+  "historyId" : "671622a2b91404d6b9a13216408e0b42",
+  "time" : {
+    "start" : 1652020938669,
+    "stop" : 1652020938900,
+    "duration" : 231
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7c7dce658da96273",
+      "name" : "Screenshot",
+      "source" : "7c7dce658da96273.png",
+      "type" : "image/png",
+      "size" : 38307
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on start over button"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a6b8c17110078342",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652019437861,
+        "stop" : 1652019438154,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "3166028227067372",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652017311888,
+        "stop" : 1652017312127,
+        "duration" : 239
+      }
+    }, {
+      "uid" : "89ff6ac3076597cb",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017261080,
+        "stop" : 0,
+        "duration" : -1652017261080
+      }
+    }, {
+      "uid" : "6a2db00d4d544e15",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1652017106668,
+        "stop" : 0,
+        "duration" : -1652017106668
+      }
+    }, {
+      "uid" : "74bd672d09d98995",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016950344,
+        "stop" : 1652016950586,
+        "duration" : 242
+      }
+    }, {
+      "uid" : "60f5a6e59760cdb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652016781761,
+        "stop" : 1652016782075,
+        "duration" : 314
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29340affe48fb7ed.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

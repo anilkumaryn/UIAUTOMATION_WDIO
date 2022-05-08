@@ -1,0 +1,50 @@
+{
+  "uid" : "a21400a45ec348c5",
+  "name" : "I enter MonthlyExpenses as the living expenses",
+  "fullName" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow.I enter MonthlyExpenses as the living expenses",
+  "historyId" : "c05a99f5ec0b7ebfc1daa1416d3b6438",
+  "time" : {
+    "start" : 1652017106667,
+    "stop" : 1652017106667,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "testMethod",
+    "value" : "I enter MonthlyExpenses as the living expenses"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing a start over operation after estimating borrow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a21400a45ec348c5.json",
+  "parameterValues" : [ ]
+}

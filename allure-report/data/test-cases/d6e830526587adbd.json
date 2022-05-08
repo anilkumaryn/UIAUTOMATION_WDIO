@@ -1,0 +1,62 @@
+{
+  "uid" : "d6e830526587adbd",
+  "name" : "Then I should see the correct estimated borrow amount",
+  "fullName" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator.Then I should see the correct estimated borrow amount",
+  "historyId" : "bf8c08b3ab993857427eca58da1310e9",
+  "time" : {
+    "start" : 1652021923125,
+    "stop" : 1652021923142,
+    "duration" : 17
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: this.borrowingEstimateText.getText is not a function",
+  "statusTrace" : "TypeError: this.borrowingEstimateText.getText is not a function\n                    at HomePage.getTextforEestimated (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\features\\pageobjects\\/home.page.js:76:47)\n                    at World.<anonymous> (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\features\\step-definitions\\/steps.js:62:33)\n                    at World.executeAsync (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\@wdio\\utils\\build\\shim.js:136:25)\n                    at World.testFrameworkFnWrapper (C:\\Projects\\Demo_UIAutomation\\wdio-v7\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:45:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see the correct estimated borrow amount"
+  }, {
+    "name" : "package",
+    "value" : "Verify Borrow calculator functionality: Performing an estimate borrow operation with the help of calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6e830526587adbd.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}
