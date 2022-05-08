@@ -19,32 +19,32 @@ Given(/^I select property type as home to live in$/, async () => {
     await HomePage.selectHomeToLiveIn(); 
 });
 
-When('I enter {int} $ as the income before tax', async(income) => {
-    await HomePage.enterIncome(income);
+When('I enter {int} as the income before tax', async(annualIncomeBT) => {
+    await HomePage.enterIncome(annualIncomeBT);
 });
 
-When ('I enter {int} $ as the other income', async (otherIncome) => {
+When ('I enter {int} as the other income', async (otherIncome) => {
     await HomePage.enterOtherIncome(otherIncome);
 });
     
-When ('I enter {int} $ as the living expenses', async (livingExpenses) => {
+When ('I enter {int} as the living expenses', async (livingExpenses) => {
         await HomePage.enterMonthlyExpenses(livingExpenses);
         await  browser.pause(1000);
 });
 
-When ('I enter {int} $ as the home loan repayment', async (homeLoanRepay) => {
+When ('I enter {int} as the home loan repayment', async (homeLoanRepay) => {
             await HomePage.enterHomeLoanRepayment(homeLoanRepay);
 });
      
-When ('I enter {int} $ as the other loan repayment', async (otherLoanRepay) => {
+When ('I enter {int} as the other loan repayment', async (otherLoanRepay) => {
             await HomePage.enterOtherMonthlyLoanRepayment(otherLoanRepay);
 });
 
-When ('I enter {int} $ as the other commitment', async (otherCommitment) => {
+When ('I enter {int} as the other commitment', async (otherCommitment) => {
         await HomePage.enterOtherMonthlyCommitments(otherCommitment);
 });
       
-When  ('I enter {int} $ as the total credit card limits', async (totalCreditCardLimits) => {
+When  ('I enter {int} as the total credit card limits', async (totalCreditCardLimits) => {
         await HomePage.entertotalCreditCardLimits(totalCreditCardLimits);
 });
 
@@ -63,13 +63,14 @@ When  (/^I click on start over button$/, async () => {
 });
  
 Then('All the fields in the calculator are set to default values', async ()=> {
-    expect("0").equals(HomePage.getIncomeValue(),"income filed not cleared");
-    expect("0").equals(HomePage.getOtherIncomeValue(),"other income filed not cleared");
-    expect("0").equals(HomePage.getLivingExpensesValue(),"living expenses filed not cleared");
-    expect("0").equals(HomePage.getCurrentHomeLoanRepaymentValue(),"current home loan repay filed not cleared");
-    expect("0").equals(HomePage.getOtherLoanRepaymentValue(),"other loan repay filed not cleared");
-    expect("0").equals(HomePage.getOtherCommitmentValue(),"other commitment filed not cleared");
-    expect("0").equals(HomePage.getTotalCreditCardsLimitValue(),"credit cards limit filed not cleared");
+    console.log("output of income value"+ await HomePage.getIncomeValue());
+    expect("0").equals(await HomePage.getIncomeValue(),"Your annual income (before tax) not cleared");
+    expect("0").equals(await HomePage.getOtherIncomeValue(),"Your annual other income not cleared");
+    expect("0").equals(await HomePage.getLivingExpensesValue(),"Monthly living expenses not cleared");
+    expect("0").equals(await HomePage.getCurrentHomeLoanRepaymentValue(),"current home loan repayments  not cleared");
+    expect("0").equals(await HomePage.getOtherLoanRepaymentValue(),"other loan repayments not cleared");
+    expect("0").equals(await HomePage.getOtherCommitmentValue(),"other monthly commitment not cleared");
+    expect("0").equals(await HomePage.getTotalCreditCardsLimitValue(),"Total credit cards limits not cleared");
 });
 
 Then('I should see the proper borrow error message', function() {

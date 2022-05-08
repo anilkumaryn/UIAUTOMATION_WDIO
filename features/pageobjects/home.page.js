@@ -42,8 +42,8 @@ class HomePage {
         await (await this.homeToLiveIn).click();
         
     }
-    async enterIncome(income) {
-        await (await this.annualIncome).setValue(income);
+    async enterIncome(annualIncomeBT) {
+        await (await this.annualIncome).setValue(annualIncomeBT);
     }
   
   async enterOtherIncome(otherIncome) {
@@ -69,9 +69,7 @@ class HomePage {
         await (await this.workOutHowMuchICouldBorrowButton).click();
     }
     async getTextforEestimated() {
-       
       return (await this.borrowingEstimateText).getText();
-        //await (await this.totalCreditCardLimits).setValue(10000);
     }
 
     async selectStartOverButton(){
@@ -79,36 +77,37 @@ class HomePage {
     }
 
     //****************************************
-    getIncomeValue() {
-        console.log("output"+ this.annualIncome);
-        return (this.annualIncome).getText();   
+    async getIncomeValue() {
+        console.log("output"+await this.annualIncome);
+        //return (await this.annualIncome).getText();  
+        return $("//label[contains(text(),'Your annual income (before tax)')]/../div/input") 
      }
 
-    getOtherIncomeValue() {
+     async getOtherIncomeValue() {
         return (this.annualOtherIncome).getValue();
     }
 
-    getLivingExpensesValue(){
+    async  getLivingExpensesValue(){
         return (this.monthlyLivingExpenses).getValue();
     }
 
-    getCurrentHomeLoanRepaymentValue() {
+    async getCurrentHomeLoanRepaymentValue() {
         return (this.currentHomeLoanRepayment).getValue();
     }
 
-    getOtherLoanRepaymentValue(){
+    async  getOtherLoanRepaymentValue(){
         return (this.otherMonthlyLoanRepayment).getValue();
     }
 
-    getOtherCommitmentValue(){
+    async  getOtherCommitmentValue(){
         return (this.otherMonthlyCommitments).getValue();
     }
 
-    getTotalCreditCardsLimitValue() {
+    async getTotalCreditCardsLimitValue() {
         return (this.totalCreditCardLimits).getValue();
     }
 
-    getBorrowErrorMessageText() {
+   async getBorrowErrorMessageText() {
         return (this.borrowErrorText).getText();
     }
    
