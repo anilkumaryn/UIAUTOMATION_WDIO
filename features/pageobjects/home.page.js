@@ -25,7 +25,7 @@ class HomePage {
  
     /**
      * a method to encapsule automation code to interact with the page
-     * e.g. to login using username and password
+     
      */
     async signInClick () {
         await (await this.signIn).click();
@@ -76,41 +76,65 @@ class HomePage {
         await (await this.startOverButton).click();
     }
 
-    //****************************************
-    async getIncomeValue() {
-        console.log("output"+await this.annualIncome);
-        //return (await this.annualIncome).getText();  
-        return $("//label[contains(text(),'Your annual income (before tax)')]/../div/input") 
-     }
-
-     async getOtherIncomeValue() {
-        return (this.annualOtherIncome).getValue();
+    get btnApplicationTypeSingle(){
+        return $('#application_type_single');
     }
 
-    async  getLivingExpensesValue(){
-        return (this.monthlyLivingExpenses).getValue();
+    get ddnNumberOfDependents(){
+        return $('select[title="Number of dependants"]');
     }
 
-    async getCurrentHomeLoanRepaymentValue() {
-        return (this.currentHomeLoanRepayment).getValue();
+    get btnBuyHome(){
+        return $('#borrow_type_home');
     }
 
-    async  getOtherLoanRepaymentValue(){
-        return (this.otherMonthlyLoanRepayment).getValue();
+    get txtAnnualIncome(){
+        return $('input[aria-labelledby="q2q1"]');
     }
 
-    async  getOtherCommitmentValue(){
-        return (this.otherMonthlyCommitments).getValue();
+    get txtAnnualOtherIncome(){
+        return $('input[aria-labelledby="q2q2"]');
     }
 
-    async getTotalCreditCardsLimitValue() {
-        return (this.totalCreditCardLimits).getValue();
+    get txtMonthlyLivingExpenses(){
+        return $('#expenses');
     }
 
-   async getBorrowErrorMessageText() {
-        return (this.borrowErrorText).getText();
+    get txtCurrentlyHomeLoanMonthlyExpenses(){
+        return $('#homeloans');
     }
-   
+
+    get txtOtherLoanMonthlyExpenses(){
+        return $('#otherloans');
+    }
+
+    get txtOtherMonthlyCommitments(){
+        return $('//label[contains(text(),"Other monthly commitments")]/../div/input');
+    }
+
+    get txtTotalCreditCardLimits(){
+        return $('#credit');
+    }
+
+    get btnWorkOutBorrowAmount(){
+        return $('#btnBorrowCalculater');
+    }
+
+    get btnStartOver(){
+        return $('.start-over');
+    }
+
+    get btnSubmit() {
+        return $('button[type="submit"]');
+    }
+
+    get lblBorrowAmount(){
+        return $('#borrowResultTextAmount');
+    }
+    get errorText(){
+        return $('.borrow__error__text')
+    }
+      
 }
 
 export default new HomePage();
