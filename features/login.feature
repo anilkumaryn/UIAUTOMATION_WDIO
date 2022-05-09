@@ -4,7 +4,7 @@ Feature: Verify Borrow calculator functionality
 
     Given I am on the calculator page
 
-    Scenario Outline: Performing an estimate borrow operation with the help of calculator
+    Scenario Outline: Performing an estimate borrow operation with the help of the calculator
 
     When  I select application type as single
     When  I select number of dependents as zero
@@ -23,7 +23,7 @@ Feature: Verify Borrow calculator functionality
       |annualIncomeBT| |otherIncome| |livingExpenses| |homeLoanRepay| |otherLoanRepay| |otherCommitment| |totalCreditCardLimits|
       |80000|  |10000|       |500         |   |0        |     |100            | |0              ||10000                     |
 
-Scenario Outline: Performing a start over operation after estimating borrow
+Scenario Outline: Performing a start over operation after estimating borrow and verify default values
 
 When  I select application type as single
     When  I select number of dependents as zero
@@ -45,7 +45,7 @@ When  I select application type as single
 
 
 
-  Scenario Outline: Performing an estimate borrow operation with insufficient data
+  Scenario Outline: Performing an estimate borrow operation with insufficient data and validate error message
     When  I enter <livingExpenses> as the living expenses
     When  I select workout how much i could borrow button
     Then  I should see the proper borrow error message
