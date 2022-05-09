@@ -1,12 +1,10 @@
 "# wdio-v7" 
 
-WebdriverIO WEB Testing Demo Project
-
-Sample for login and create a user peform add cart and checkout ,The Automation Practice site E2E flowwith ui test automation.
+WebdriverIO UI Automaion Calculator features  
 
 Features WebdriverIO v7 Page Object model, Allure Report, 
 
-Clone the project and for Install run npm @wdio/cli
+TO clone the project (https://github.com/anilkumaryn/UIAUTOMATION_WDIO.git) and for Install run npm @wdio/cli
 
 To execute the feature file in the terminal,enter npm run test or npx wdio run ./wdio.conf.js to run 
 
